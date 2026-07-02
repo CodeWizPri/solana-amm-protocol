@@ -85,3 +85,7 @@ cargo test --test test_deposit_liquidity -- --nocapture
 cargo test --test test_withdraw -- --nocapture
 
 ---
+
+## Author
+
+* **Priyanshu Bikash Mohapatra**
